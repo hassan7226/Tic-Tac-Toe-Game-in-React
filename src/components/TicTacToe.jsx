@@ -118,7 +118,8 @@ const TicTacToe = () => {
                     </div>
                 </div>
                 <div>
-                    <button className="reset" onClick={reset}>Reset</button>
+                  {/*  {lock ? <button className="reset" onClick={reset}>Reset</button> : null} */}
+                   <button className="reset" onClick={reset}>Reset</button>
                 </div>
             </div>
         </div>
