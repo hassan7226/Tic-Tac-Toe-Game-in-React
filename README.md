@@ -26,6 +26,8 @@ CSS
 
 HTML
 
+Live link :https://tic-tac-toe-game-two-rho.vercel.app/
+
 <img width="959" height="471" alt="image" src="https://github.com/user-attachments/assets/8c266bc0-688e-477a-a716-d0d2f022f185" />
 <img width="956" height="476" alt="image" src="https://github.com/user-attachments/assets/f7ea7148-a499-477a-81ea-2e06b6a2ba6c" />
 
